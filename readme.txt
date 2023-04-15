@@ -3,6 +3,8 @@ NoSQL. Because it's a medium post, I'm not sure if you can open it
 nowadays. So I included the original source code in Crystal Language
 in the crystal folder.
 
+Link to Medium Post: https://medium.com/@marceloboeira/why-you-should-build-your-own-nosql-database-9bbba42039f5
+
 As you can see, it's a simple NoSQL where it just store string in string
 key. I intent to reimplement it in Rust to learn more about rust. However
 I found an annoying thing about my implementation. Please see this issue
